@@ -1,6 +1,7 @@
 ### Hello There, I'm Thyago Luciano! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-[![HitCount](http://hits.dwyl.com/thyagoluciano/thyagoluciano.svg)](http://hits.dwyl.com/thyagoluciano/thyagoluciano)
+
+![Profile views](https://komarev.com/ghpvc/?username=thyagoluciano&color=blue)
 
 
 
