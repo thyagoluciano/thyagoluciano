@@ -12,6 +12,18 @@
 Twitter  : [@thyagoluciano](https://twitter.com/thyagoluciano)
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoluciano) -->
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=thyagoluciano&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+### Analytics ⚙️
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thyagoluciano)
+
+<p align="left">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=thyagoluciano&count_private=true&show_icons=true"/>
+  <br />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thyagoluciano&layout=compact&langs_count=8"/>
+</a>
+</p>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+
