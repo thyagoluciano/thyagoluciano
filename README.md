@@ -18,7 +18,7 @@ Twitter  : [@thyagoluciano](https://twitter.com/thyagoluciano)
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thyagoluciano)
 
 <p align="left">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/thyagoluciano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=thyagoluciano&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thyagoluciano&layout=compact&langs_count=8"/>
 </a>
